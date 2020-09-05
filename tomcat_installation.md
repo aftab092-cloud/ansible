@@ -1,6 +1,6 @@
 # Tomcat installation on EC2 instance
 
-### Prerequisites
+### Prerequisites in 
 1. EC2 instance
 
 ### Install Apache Tomcat
